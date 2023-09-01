@@ -1,0 +1,14 @@
+@import "foundation.scss";
+@import "nav.scss";
+@import "section.scss";
+@import "icons.scss";
+@import "grid-container.scss";
+@import "people.scss";
+@import "footer.scss"
+
+
+@media only screen and (max-width: 320px) {
+  .responsive {
+    background: lightblue;
+  }
+}
